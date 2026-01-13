@@ -1,0 +1,15 @@
+# CONFIGURATION FLASK
+
+DEBUG = True
+SECRET_KEY = '403a5a9faf9390d845d5f8c19dcde9a521b6d79f2fc212f2c5011e52bf6ef0d5'
+
+# CONFIGURATION BASE DE DONNÉES
+
+DB_HOST = "localhost"
+DB_USER = "root"
+DB_PASSWORD = "Ro67.com"
+DB_NAME = "analyse_avis_clients"
+
+# CONFIGURATION SÉCURITÉ
+
+PASSWORD_HASH_METHOD = "pbkdf2:sha256"
