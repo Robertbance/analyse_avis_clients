@@ -5,11 +5,9 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="d25f3122-f0ad-4a81-9555-3e5405b2df27" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/nlp/__init__.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/nlp/keyword_extraction.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/nlp/preprocessing.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/nlp/sentiment_model.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/nlp/keyword_extraction.py" beforeDir="false" afterPath="$PROJECT_DIR$/nlp/keyword_extraction.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/nlp/sentiment_model.py" beforeDir="false" afterPath="$PROJECT_DIR$/nlp/sentiment_model.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
